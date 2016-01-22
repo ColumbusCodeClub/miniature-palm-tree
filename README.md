@@ -10,6 +10,13 @@ React Native Setup
 * [Android Setup](https://facebook.github.io/react-native/docs/android-setup.html)
 * [Linux and Windows Support](https://facebook.github.io/react-native/docs/linux-windows-support.html) 
 
+IDEs
+----
+
+* [Installing Android Studio](http://developer.android.com/sdk/installing/index.html?pkg=studio)
+* [WebStorm](https://www.jetbrains.com/webstorm/)
+* [IntelliJ](https://www.jetbrains.com/idea/)
+
 Testing
 -------
 
