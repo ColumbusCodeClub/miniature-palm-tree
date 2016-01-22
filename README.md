@@ -8,6 +8,7 @@ React Native Setup
 
 * [Getting Started](https://facebook.github.io/react-native/docs/getting-started.html)
 * [Android Setup](https://facebook.github.io/react-native/docs/android-setup.html)
+* [Android NDK Setup](http://developer.android.com/ndk/downloads/index.html)
 * [Linux and Windows Support](https://facebook.github.io/react-native/docs/linux-windows-support.html) 
 
 IDEs
